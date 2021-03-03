@@ -1,7 +1,5 @@
-/* C program for Merge Sort */
 #include <stdio.h>
 #include <stdlib.h>
-
 
 void imprimiVetor(int vet[], int tamanho)
 {
